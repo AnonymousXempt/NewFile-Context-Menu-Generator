@@ -55,4 +55,4 @@ del "C:\NewFile.bat"
 
 ## License
 
-This software is licensed under the MIT License. See the [license file] (https://github.com/AnonymousXempt/NewFile-Context-Menu-Generator/blob/main/LICENSE) for details.
+This software is licensed under the MIT License. See the [license file](https://github.com/AnonymousXempt/NewFile-Context-Menu-Generator/blob/main/LICENSE) for details.
