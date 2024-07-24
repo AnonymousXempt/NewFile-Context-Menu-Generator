@@ -8,7 +8,7 @@ function Test-Admin {
 if ((Test-Admin) -eq $false)  {
     if ($elevated) {
     } else {
-        Start-Process powershell.exe -Verb RunAs -ArgumentList ('-ExecutionPolicy Bypass -noprofile -file "{0}" -elevated' -f ($myinvocation.MyCommand.Definition))
+        Start-Process powershell.exe -Verb RunAs -ArgumentList ('-ExecutionPolicy Bypass -noprofile "{0}" -elevated' -f ($myinvocation.MyCommand.Definition))
     }
     exit
 }
