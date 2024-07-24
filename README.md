@@ -43,7 +43,7 @@ After installation, right-click in any directory where the context menu is acces
 https://github.com/user-attachments/assets/72e2f765-ae5c-46a8-89b3-b0f6e97ecdf7
 
 ### Uninstallation
-https://github.com/user-attachments/assets/67111dae-b157-4797-a7a1-814eafda2293
+https://github.com/user-attachments/assets/7f774783-1257-456b-9620-c93c4622daba
 
 ## Warnings
 
