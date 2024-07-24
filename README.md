@@ -1,4 +1,5 @@
 # NewFile Context Menu Generator
+![Image](https://github.com/user-attachments/assets/f20e5a8e-57eb-42f7-b201-6f5f94e48639)
 
 ## Overview
 
@@ -38,7 +39,11 @@ After installation, right-click in any directory where the context menu is acces
 
 ## Demonstration
 
-A video demonstration is available [here](#).
+### Installation
+https://github.com/user-attachments/assets/72e2f765-ae5c-46a8-89b3-b0f6e97ecdf7
+
+### Uninstallation
+https://github.com/user-attachments/assets/67111dae-b157-4797-a7a1-814eafda2293
 
 ## Warnings
 
