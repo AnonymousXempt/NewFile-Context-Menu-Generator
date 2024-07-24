@@ -8,7 +8,7 @@ function Test-Admin {
 if ((Test-Admin) -eq $false)  {
     if ($elevated) {
     } else {
-        Start-Process powershell.exe -Verb RunAs -ArgumentList ('-ExecutionPolicy Bypass -noexit -noprofile -file "{0}" -elevated' -f ($myinvocation.MyCommand.Definition))
+        Start-Process powershell.exe -Verb RunAs -ArgumentList ('-ExecutionPolicy Bypass -noprofile -file "{0}" -elevated' -f ($myinvocation.MyCommand.Definition))
     }
     exit
 }
@@ -40,5 +40,5 @@ reg add "HKCR\Directory\Background\shell\NewFile\command" /ve /t REG_SZ /d '"\"C
 $batFilePath = "C:\NewFile.bat"
 Set-Content -Path $batFilePath -Value $batContent -Force
 clear
-exit
+start-sleep
 
