@@ -7,9 +7,9 @@ The **NewFile Context Menu Generator** is a PowerShell script designed to integr
 
 ## Features
 
-- **Admin Privilege Check:** The script automatically restarts with elevated (admin) privileges if not already running with them.
-- **Custom Context Menu Entry:** Adds a "New File" option to the right-click context menu in Windows Explorer.
-- **Batch File Creation:** Prompts the user to enter a file extension and creates a new file with that extension in the selected directory.
+- Custom File Extension Input: Users can specify any file extension to create new files with their desired format.
+- Quick Access: Easily accessible from the right-click context menu in Windows Explorer for convenient file creation.
+- Create File in Current Directory: Instantly generate new files in the directory where the context menu is accessed.
 
 ## Contents
 
