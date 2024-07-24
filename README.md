@@ -47,7 +47,7 @@ https://github.com/user-attachments/assets/7f774783-1257-456b-9620-c93c4622daba
 
 ## Warnings
 
-This script is safe to use. However, modify the script only if you are familiar with PowerShell and Windows Registry operations.
+This script is safe to use. However, modification of the script may cause harm to the computer. Only change the script if you are familiar with PowerShell and Windows Registry operations.
 
 ## Uninstallation
 
